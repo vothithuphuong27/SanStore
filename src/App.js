@@ -1,4 +1,4 @@
-*eslint-disable*
+/*eslint-disable*/
 git commit -m "first commit"
 import React from 'react'
 import Header from './app/shared/header/component/Header'
